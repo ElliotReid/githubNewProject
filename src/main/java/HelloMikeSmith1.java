@@ -7,9 +7,18 @@ public class HelloMikeSmith1 {
         //new things added from feature1
         //daha fazla ekle
 
+
+
+
+        // aslidan degisiklikler ekleniyor
+
+        // yeni degisiklikler..
+
+
         System.out.println("Hello Neriman");
         System.out.println(" Hello Tuba");
         System.out.println("Hello Asli");
+
 
     }
 }
