@@ -6,5 +6,10 @@ public class HelloMikeSmith1 {
         System.out.println("Merhaba");
         //new things added from feature1
         //daha fazla ekle
+
+        System.out.println("Hello Neriman");
+        System.out.println(" Hello Tuba");
+        System.out.println("Hello Asli");
+
     }
 }
