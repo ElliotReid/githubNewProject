@@ -6,5 +6,16 @@ public class HelloMikeSmith1 {
         System.out.println("Merhaba");
         //new things added from feature1
         //daha fazla ekle
+
+
+
+        // aslidan degisiklikler ekleniyor
+
+
+
+
+
+
+
     }
 }
