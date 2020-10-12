@@ -5,5 +5,6 @@ public class HelloMikeSmith1 {
         System.out.println("Hello World");
         System.out.println("Merhaba");
         //new things added from feature1
+        //daha fazla ekle
     }
 }
